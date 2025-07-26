@@ -1,44 +1,76 @@
-👋 Hey, I'm Aaditya Jain
-🎓 B.Tech Student | 💻 Full-Stack Developer | 🌟 Open Source Enthusiast
-I'm passionate about crafting modern web applications, building tools, and solving real-world challenges through clean, efficient code. I love learning new tech and contributing to projects that make an impact.
+# 👋 Hi, I'm Aaditya Jain
 
-🚀 About Me
+<!-- Classic header with modern tone -->
 
-🔭 Currently working on: CodeLearn – An interactive learning platform with courses, roadmaps, and hands-on projects.
-🌱 Learning & Exploring: Next.js 14, MongoDB, Tailwind CSS, and scalable backend systems.
-💡 Past Projects:
-Pharmacy Management System (Python + SQLite)
-Hotel Booking Web App (Next.js + MongoDB)
-AI Lyrics Identifier (Speech-to-text + Gemini API)
+🎓 B.Tech Student | 💻 Full-Stack Developer | 🚀 Open Source Enthusiast  
+🌐 Passionate about building modern web apps, tools, and solving real-world problems through code.
 
+---
 
-🎯 Goal: To become a versatile full-stack engineer who builds creative, user-focused solutions.
+## 🚀 About Me
 
+- 🔭 Currently working on: **CodeLearn** – a learning platform with interactive courses, roadmaps, and project ideas.
+- 🌱 Exploring: `Next.js 14`, `MongoDB`, `Tailwind CSS`, and scalable backend architecture.
+- 👨‍💻 Previously built:
+  - A **Pharmacy Management System** using Python + SQLite
+  - A **Hotel Booking Web App** using Next.js + MongoDB
+- 🎯 Goal: Become a creative & solution-oriented full-stack engineer.
 
-🛠️ Tech Stack
+---
 
-Tools: VS Code, Postman, Figma
+## 🧰 Tech Stack
 
-🌟 Featured Projects
-Here are some projects I'm proud of:
+<div align="center">
 
-CodeLearnA developer education platform with interactive courses, project ideas, and guided roadmaps.Tech: Next.js, MongoDB, Tailwind CSS
+<!-- Add your most used and favorite technologies -->
 
-Project GeneratorAn AI-powered tool that generates real-world project ideas with detailed implementation guides.Tech: JavaScript, Node.js, Gemini API
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
-Notion CloneA lightweight Notion-inspired app for note-taking and task management.Tech: TypeScript, React, Tailwind CSS
+</div>
 
+---
 
-Check out more in my repositories!
+## 📘 Featured Projects
 
-📊 GitHub Stats
+Here are a few highlights from my repositories:
 
+- **🔧 CodeLearn** – Developer education platform with courses, projects, and roadmap-based learning.
+- **📦 Project Generator** – AI-powered tool for generating real-world projects with full implementation guides.
+- **🧠 AI Lyrics Identifier** – Speech-to-text + Gemini API to detect songs using voice input.
 
-📬 Let's Connect
+> Check out the pinned repositories below ⬇️
 
-💼 LinkedIn : https://www.linkedin.com/in/aaditya-jain-0b619b264/
-🌐 Portfolio : https://aaditya-portfolio-ini.vercel.app/
-📧 Email: jaaditya832@gmail.com
+---
 
-"Code is like poetry; it’s about expressing complex ideas simply and elegantly."  
-Thanks for stopping by! 🚀 Feel free to explore my repos and drop a ⭐ if you like what you see!
+## 📈 GitHub Stats
+
+<div align="center">
+
+[![Aaditya's GitHub Streak](https://streak-stats.demolab.com/?user=Aadityajain01&theme=default)](https://git.io/streak-stats)
+[![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadityajain01&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Portfolio:[Aaditya Jain](https://aaditya-portfolio-ini.vercel.app/)
+- 📧 Email: [aadityajaincontact@gmail.com](mailto:jaaditya832@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/aadityajain01](https://linkedin.com/in/aadityajain01](https://www.linkedin.com/in/aaditya-jain-0b619b264/))
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+
+Thanks for visiting! ⭐  
