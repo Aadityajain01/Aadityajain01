@@ -36,9 +36,9 @@ Check out more in my repositories!
 
 📬 Let's Connect
 
-💼 LinkedIn  
-🌐 Portfolio  
-📧 Email: [Your Email Here]
+💼 LinkedIn : https://www.linkedin.com/in/aaditya-jain-0b619b264/
+🌐 Portfolio : https://aaditya-portfolio-ini.vercel.app/
+📧 Email: jaaditya832@gmail.com
 
 "Code is like poetry; it’s about expressing complex ideas simply and elegantly."  
 Thanks for stopping by! 🚀 Feel free to explore my repos and drop a ⭐ if you like what you see!
