@@ -66,8 +66,8 @@ Here are a few highlights from my repositories:
 ## 📫 Let's Connect
 
 - 🌐 Portfolio:[Aaditya Jain](https://aaditya-portfolio-ini.vercel.app/)
-- 📧 Email: [aadityajaincontact@gmail.com](mailto:jaaditya832@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/aadityajain01](https://linkedin.com/in/aadityajain01](https://www.linkedin.com/in/aaditya-jain-0b619b264/))
+- 📧 Email: [jaaditya832@gmail.com](mailto:jaaditya832@gmail.com)
+- 💼 LinkedIn: [linkedin.com](https://linkedin.com/in/aadityajain01](https://www.linkedin.com/in/aaditya-jain-0b619b264/))
 
 ---
 
