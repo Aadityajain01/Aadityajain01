@@ -1,76 +1,81 @@
-# 👋 Hi, I'm Aaditya Jain
 
-<!-- Classic header with modern tone -->
+<!-- Aaditya Jain | GitHub Profile README -->
 
-🎓 B.Tech Student | 💻 Full-Stack Developer | 🚀 Open Source Enthusiast  
-🌐 Passionate about building modern web apps, tools, and solving real-world problems through code.
+<h1 align="center">Hey there 👋, I'm Aaditya Jain</h1>
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on: **CodeLearn** – a learning platform with interactive courses, roadmaps, and project ideas.
-- 🌱 Exploring: `Next.js 14`, `MongoDB`, `Tailwind CSS`, and scalable backend architecture.
-- 👨‍💻 Previously built:
-  - A **Pharmacy Management System** using Python + SQLite
-  - A **Hotel Booking Web App** using Next.js + MongoDB
-- 🎯 Goal: Become a creative & solution-oriented full-stack engineer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Tech+Explorer+%F0%9F%9A%80;Creative+Problem+Solver;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+### 🧑‍💻 Who Am I?
 
-<div align="center">
+```js
+const Aaditya = {
+  education: "B.Tech | Engineering",
+  passions: ["Web Dev", "AI Tools", "Open Source", "UI/UX"],
+  stack: ["React", "Next.js", "Node.js", "MongoDB", "Tailwind CSS"],
+  currentProject: "Admin Panel + CMS for CodeLearn 🔧",
+  motto: "Build. Break. Learn. Repeat.",
+};
+```
 
-<!-- Add your most used and favorite technologies -->
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-
-</div>
+💡 I’m the creator of **CodeLearn**, a platform where devs can level up with roadmaps, curated practice sets, and AI-powered project ideas.
 
 ---
 
-## 📘 Featured Projects
+### 🚀 Technologies & Tools
 
-Here are a few highlights from my repositories:
-
-- **🔧 CodeLearn** – Developer education platform with courses, projects, and roadmap-based learning.
-- **📦 Project Generator** – AI-powered tool for generating real-world projects with full implementation guides.
-- **🧠 AI Lyrics Identifier** – Speech-to-text + Gemini API to detect songs using voice input.
-
-> Check out the pinned repositories below ⬇️
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css,figma,vscode,git,github" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 🔥 My GitHub Fire
 
-<div align="center">
-
-[![Aaditya's GitHub Streak](https://streak-stats.demolab.com/?user=Aadityajain01&theme=default)](https://git.io/streak-stats)
-[![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadityajain01&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-- 🌐 Portfolio:[Aaditya Jain](https://aaditya-portfolio-ini.vercel.app/)
-- 📧 Email: [jaaditya832@gmail.com](mailto:jaaditya832@gmail.com)
-- 💼 LinkedIn: [linkedin.com](https://linkedin.com/in/aadityajain01](https://www.linkedin.com/in/aaditya-jain-0b619b264/))
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aadityajain01&theme=classic" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aadityajain01&show_icons=true&theme=default&hide_title=true" />
+</p>
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+### 📌 Highlight Projects
 
-Thanks for visiting! ⭐  
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔷 **CodeLearn** | A full learning ecosystem for devs (Courses, Practice, Roadmaps, Projects). | `Next.js`, `MongoDB`, `Tailwind CSS`, `AI` |
+| 🧪 **AI Lyrics Identifier** | Voice-based lyrics detector with Gemini API integration. | `Python`, `Speech Recognition`, `API` |
+| 🏨 **Hotel Booking Platform** | End-to-end booking experience for customers, vendors, and admins. | `Next.js`, `MongoDB`, `Auth`, `CRUD` |
+| 💊 **Pharmacy System** | Inventory and sales tracker with Python + SQLite. | `Python`, `Tkinter`, `SQLite` |
+
+> Want to contribute or explore? Dive into my pinned repos below! 👇
+
+---
+
+### 📬 Let’s Connect!
+
+<p align="center">
+  <a href="mailto:jaaditya832@gmail.com"><img src="https://img.shields.io/badge/Email-%23ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/aaditya-jain-0b619b264]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Aadityajain01" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> "When I’m not coding, I’m probably brainstorming features, sketching UI, or teaching someone how to deploy 🚀."
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aadityajain01/Aadityajain01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by!</b> ✨ Feel free to connect & collaborate. Let's build the future together.
+</p>
