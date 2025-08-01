@@ -43,7 +43,7 @@ Here are a few highlights from my repositories:
 
 <div align="center" display="flex" gap="10px">
 
-[![Aaditya's GitHub Streak](https://streak-stats.demolab.com/?user=Aadityajain01&theme=default)](https://git.io/streak-stats)
+[![Aaditya's GitHub Streak](https://streak-stats.demolab.com/?username=Aadityajain01&theme=default)](https://git.io/streak-stats)
 
 [![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadityajain01&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
