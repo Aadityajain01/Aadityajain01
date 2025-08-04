@@ -41,13 +41,21 @@ Here are a few highlights from my repositories:
 
 ## 📈 GitHub Stats
 
-<div align="center" display="flex" gap="10px">
 
-[![Aaditya's GitHub Streak](https://streak-stats.demolab.com/?username=Aadityajain01&theme=default)](https://git.io/streak-stats)
-
-[![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadityajain01&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?username=Aadityajain01&theme=default" alt="Aaditya's GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aadityajain01&show_icons=true&theme=default" alt="Aaditya's GitHub Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
